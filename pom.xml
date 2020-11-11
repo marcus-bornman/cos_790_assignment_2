@@ -25,7 +25,7 @@
         <dependency>
             <groupId>dev.born</groupId>
             <artifactId>itc2007</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
         <dependency>
             <groupId>za.ac.up</groupId>
