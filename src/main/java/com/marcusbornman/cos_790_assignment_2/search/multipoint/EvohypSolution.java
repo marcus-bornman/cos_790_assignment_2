@@ -1,7 +1,7 @@
 package com.marcusbornman.cos_790_assignment_2.search.multipoint;
 
 import initialsoln.InitialSoln;
-import uk.ac.qub.cs.itc2007.ExamTimetablingSolution;
+import dev.born.itc2007.ExamTimetablingSolution;
 
 public class EvohypSolution extends InitialSoln {
 	private String heuristicComb;
